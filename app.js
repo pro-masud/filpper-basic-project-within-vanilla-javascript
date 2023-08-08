@@ -1,7 +1,7 @@
 // how many types colors array here now
 const colors = ['green','red','skyblue','#2e1065','#f97316','#22c55e','#f43f5e'];
 
-// get button event here
+// get button id here
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
 
